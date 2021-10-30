@@ -1,0 +1,15 @@
+.headerCaption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+}
+
+.headerCaption > div {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
